@@ -18,3 +18,9 @@
 ### 4. Linguagem Natural vs Artificial
 
   A linguagem natural pode ser muito subjetiva de forma para a linguagem artificial isso não pode ocorrer assim como ambiguidades. A comunicação com a máquina tem que ser direta, clara e específica.
+
+### 5. Introdução a Algoritmos
+
+  É uma sequência de passos, seja da vida real ou um programa de computador na execução de uma comandos.
+
+  Esses passos podem ser selecionados de maneira condicional, seja para executar ou não ou mesmo para repetir.
