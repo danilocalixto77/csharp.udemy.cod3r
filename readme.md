@@ -5,6 +5,8 @@
 
 ### 1. Introdução
 
+  Visão panorâmica do C#, apresentação do conteúdo.
+
 ### 2. Repositório do Curso (Github)
 
 ### 3. Repositório do Curso
