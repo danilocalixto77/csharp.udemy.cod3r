@@ -27,4 +27,12 @@
 
   A ordem é importante na sequencia do algoritimo pois incluencia no resultado, podendo gerar um bug ou mesmo uma queda de desempenho (mesmo não estando errado).
 
-  ### Proxima Aula: 6. Introdução à Estrutura de Dados
+### 6. Introdução à Estrutura de Dados
+
+  Estrutura de dados é diferente dos dados.
+
+  A estrutura de dados traz organização define um conjunto regras em que os dados podem se organizar.
+
+  Tipos de estrutura: **Lista, Pilhas, Fila**
+
+### 7. O que é .NET?
