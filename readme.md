@@ -24,3 +24,7 @@
   É uma sequência de passos, seja da vida real ou um programa de computador na execução de uma comandos.
 
   Esses passos podem ser selecionados de maneira condicional, seja para executar ou não ou mesmo para repetir.
+
+  A ordem é importante na sequencia do algoritimo pois incluencia no resultado, podendo gerar um bug ou mesmo uma queda de desempenho (mesmo não estando errado).
+
+  ### Proxima Aula: 6. Introdução à Estrutura de Dados
