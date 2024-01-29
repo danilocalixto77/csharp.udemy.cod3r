@@ -95,7 +95,18 @@
   }
   ```
   
-  ### 16. Organização Básica do Código
+### 16. Organização Básica do Código
+
+
+### 17. Primeiro Programa
+
+  A função Main é a porta de entrada para o programa C#
+
+  E este mesmo método Main só é aceito um no C#. Desta forma quando se criam dois projetos e ambos possuem um método Main, há duas alternativas que podem ser todamas:
+
+  Primeira: Renomear um dos métodos Main() a partir dai, o compilador irá considerar o que ficar como Main() sendo o programa principal do C#.
+
+  Segunda: A outra auternativa é ir em: Clica em cima do projeto o botão direito, vai em **Propriedade** Aplicativo|Geral|No combo de objeto de inicialização, seleciona em qual dos dois projetos, qual Main() deseja que seja executado.
 
 
 

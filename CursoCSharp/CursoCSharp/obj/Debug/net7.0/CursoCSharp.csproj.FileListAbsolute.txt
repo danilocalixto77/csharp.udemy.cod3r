@@ -1,0 +1,15 @@
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.exe
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.deps.json
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.runtimeconfig.json
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.dll
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\bin\Debug\net7.0\CursoCSharp.pdb
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.csproj.AssemblyReference.cache
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.AssemblyInfoInputs.cache
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.AssemblyInfo.cs
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.dll
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\refint\CursoCSharp.dll
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.pdb
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\CursoCSharp.genruntimeconfig.cache
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\CursoCSharp\obj\Debug\net7.0\ref\CursoCSharp.dll
