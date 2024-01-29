@@ -58,4 +58,13 @@
 
 ### 13. Ambiente para Linux
 
+## Seção 3: Fundamentos
+
+### 14. Arquitetura de uma Solução C#
+
+  Estrutura de soluções com vários projetos sejam eles um exe ou uma dll.
+  
+  Dentro dos projetos encontramos os namespaces e classes.
+
+
   
