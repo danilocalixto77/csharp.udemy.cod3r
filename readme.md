@@ -47,4 +47,15 @@
 
 ### 9. Usando o terminal  
 
+### 10. Terminais
+
+
+## Seção 2: Configuração do Ambiente 
+
+### 11. Aviso importante aos usuários de Windows
+
+### 12. Configuração do Ambiente
+
+### 13. Ambiente para Linux
+
   
