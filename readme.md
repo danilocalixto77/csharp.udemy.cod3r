@@ -66,5 +66,36 @@
   
   Dentro dos projetos encontramos os namespaces e classes.
 
+### 15. Criando um Projeto C#
 
+  Configurações de ajuste de formatação(indentação) do código.
+
+  ```
+  namespace CursoCShparp
+  {
+      class Program
+      {
+          static void Main(string[] args)
+          {
+              Console.WriteLine("Hello World!");
+          }
+      }
+  }
+  ```
   
+  Para:
+
+  ```
+  namespace CursoCShparp {
+    class Program {
+      static void Main(string[] args) {
+          Console.WriteLine("Hello World!");
+      }
+    }
+  }
+  ```
+  
+
+  ## Atalhos do Visual Studio .NET
+
+  **CTRL + K + D**: Formata o código conforme a indentação previamente configurada.(Aula 15. Criando um Projeto C#) contém as orientações de como configurar a forma de organização do código.
