@@ -36,3 +36,15 @@
   Tipos de estrutura: **Lista, Pilhas, Fila**
 
 ### 7. O que é .NET?
+
+  .Net é um framework. Que possibilita desenvolver em diversas linguagens C#, F#...
+
+  O .NET é separado em duas partes o CLR e as LIBs.
+
+### 8. Common Language Runtime (CLR)
+
+  CLR é um interpretador que transforma o ILCode para um código de máquina Windows, Linux ou MAC. Pelo JIT(Just in Time)
+
+### 9. Usando o terminal  
+
+  
