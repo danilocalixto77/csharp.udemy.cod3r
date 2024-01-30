@@ -108,6 +108,20 @@
 
   Segunda: A outra auternativa é ir em: Clica em cima do projeto o botão direito, vai em **Propriedade** Aplicativo|Geral|No combo de objeto de inicialização, seleciona em qual dos dois projetos, qual Main() deseja que seja executado.
 
+  Mas ainda há uma outra forma na qual será vista a seguir.
+
+### 18. Link para material
+
+  Link com arquivo para gerenciamento dos exercícios:
+
+  http://files.cod3r.com.br/curso-c-sharp/central.zip
+  
+### 19. Problema: Múltiplos Main
+
+  Nesta aula iremos descompactar o arquivo baixado na aula anterior e devemos seguir alguns passos. Esse arquivo baixado irá conter um programa no qual poderemos gerenciar a compilação do exercício desejado, de forma que caso não seja informado o exercício, o programa irá executar por padrão o último que muito provavelmente será o que está sendo desenvolvido.
+
+  Passo que devemos seguir:
+
 
 
 
