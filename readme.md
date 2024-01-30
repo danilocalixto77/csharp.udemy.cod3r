@@ -122,6 +122,19 @@
 
   Passo que devemos seguir:
 
+  1º Descompacte o arquivo .zip que terá dois arquivo que devem ser copiados para pasta do projeto. Sobreponha o Program.cs.
+
+  2º No PrimeiroPrograma.cs o método main será renomeado para Executar. Isso permitirá ser chamado através do Program.cs. E com todos os demais serão feitos dessa forma, criando uma classe e declarando a sua chamada no Program.cs, tornando proximo do funcionamento de uma aplicação.
+
+### 20. Comentários de Código
+
+  Três barras /// invoca o XML Comments
+
+  Comentário em bloco /* */
+
+  Comentário em linha //
+
+
 
 
 

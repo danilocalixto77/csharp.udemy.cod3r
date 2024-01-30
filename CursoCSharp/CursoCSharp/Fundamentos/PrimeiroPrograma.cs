@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp.Fundamentos {
     class PrimeiroPrograma {
-        static void Main2() {
-            System.Console.Write("Primeiro");
+        public static void Executar() {
+            System.Console.Write("Primeiro - ");
             Console.WriteLine("Prgrama!");
             Console.WriteLine("Terminou!");
         }
