@@ -134,6 +134,12 @@
 
   Comentário em linha //
 
+  Selecionando o texto ainda há os atalhos:
+    
+  CTRL + K + C: Comenta código selecionado com duas barras //.
+
+  CTRL + K + U: Descomenta código selecionado.
+
   ---
   ---
 
@@ -141,6 +147,6 @@
 
   **CTRL + K + D**: Formata o código conforme a indentação previamente configurada.(Aula 15. Criando um Projeto C#) contém as orientações de como configurar a forma de organização do código.
 
-  **CTRL + K + C**: Comenta código selecionado com duas barras //
+  **CTRL + K + C**: Comenta código selecionado com duas barras //.
 
   **CTRL + K + U**: Descomenta código selecionado.
