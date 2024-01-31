@@ -160,6 +160,8 @@
 ### 25. Lendo Dados do Console
 
 
+### 26. Formatando Números
+
 
 
 
@@ -175,3 +177,5 @@
   **CTRL + K + U**: Descomenta código selecionado.
 
   **CTRL + D**: Duplica uma linha. Vá para o inicio da linha que deseja duplicar e pressiona na sequencia de tecla.
+
+  **CTRL + TAB**: Visualiza formulários em aberto e permite a seleção e navegação entre eles.
