@@ -140,6 +140,9 @@
 
   CTRL + K + U: Descomenta código selecionado.
 
+  
+### 21. Variáveis e Constantes
+
   ---
   ---
 
@@ -150,3 +153,5 @@
   **CTRL + K + C**: Comenta código selecionado com duas barras //.
 
   **CTRL + K + U**: Descomenta código selecionado.
+
+  **CTRL + D**: Duplica uma linha. Vá para o inicio da linha que deseja duplicar e pressiona na sequencia de tecla.
