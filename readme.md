@@ -153,7 +153,13 @@
 
 ### 24. Notação Ponto  
 
-  
+  Permite o endadeamento de funções e propriedades de um atributo, classe e etc...
+
+  Atribuindo-se uma ? em uma variável que esteja nula o método ou função ignora e não executar a leitura deste atributo.
+
+### 25. Lendo Dados do Console
+
+
 
 
 
