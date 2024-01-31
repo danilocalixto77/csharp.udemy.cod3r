@@ -7,9 +7,11 @@ namespace CursoCSharp {
     class Program {
         public static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
-                {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
-                {"Comentários - Fundamentos", Comentarios.Executar},
-                {"Variáveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
+                {"Fundamentos - Primeiro Programa", PrimeiroPrograma.Executar},
+                {"Fundamentos - Comentários", Comentarios.Executar},
+                {"Fundamentos - Variáveis e Constantes", VariaveisEConstantes.Executar},
+                {"Fundamentos - Inferência", Inferencia.Executar},
+                {"Fundamentos - Interpolação", Interpolacao.Executar},
             });
 
             central.SelecionarEExecutar();

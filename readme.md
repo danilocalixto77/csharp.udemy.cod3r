@@ -143,6 +143,20 @@
   
 ### 21. Variáveis e Constantes
 
+### 22. Inferência de Tipos
+
+  Declaração por inferência é necessário atribuir o valor para o C# fazer a inferência e tipar a variável, conforme o valor atribuido.
+
+### 23. Interpolação de Strings
+
+  Pode se feito utilizando indices dentro das chaves para as varíáveis. Ou então iniciando a string com um $ e dentro das chaves colocando o nome das variáveis.
+
+### 24. Notação Ponto  
+
+  
+
+
+
   ---
   ---
 
