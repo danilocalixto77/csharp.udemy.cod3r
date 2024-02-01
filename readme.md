@@ -163,9 +163,15 @@
 
 ### 27. Conversões
 
+  Implicita
+
+  Explicita
+
 ### 28. Operadores Aritméticos
 
+  Somar + , Subtrair - , Multiplicar * , Dividir / , Módulo %.
 
+### 29. Operadores Relacionais
 
 
   ---
