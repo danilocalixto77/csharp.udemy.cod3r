@@ -173,6 +173,10 @@
 
 ### 29. Operadores Relacionais
 
+### 30. Operadores Lógicos #01
+
+
+
 
   ---
   ---
