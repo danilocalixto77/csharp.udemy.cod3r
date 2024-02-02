@@ -182,10 +182,10 @@
   - F && F = F
 
   **OU**
-  V || V = V
-  V || F = V
-  F || V = V
-  F || F = F
+  - V || V = V
+  - V || F = V
+  - F || V = V
+  - F || F = F
 
   **OU EXCLUSIVO**
   - V ^ V = F
@@ -194,6 +194,10 @@
   - F ^ F = F
 
 ### 30. Operadores Lógicos #01
+
+  Operadores binários.
+
+  Operadores unários.
 
 
 
