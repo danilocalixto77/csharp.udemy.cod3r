@@ -174,16 +174,24 @@
 ### 29. Operadores Relacionais
 
   Tabela verdade:
+  
+  **E**
+  - V && V = V
+  - V && F = F
+  - F && V = F
+  - F && F = F
 
-  V && V = V
-  V && F = F
-  F && V = F
-  F && F = F
-
+  **OU**
   V || V = V
   V || F = V
   F || V = V
   F || F = F
+
+  **OU EXCLUSIVO**
+  - V ^ V = F
+  - V ^ F = V
+  - F ^ V = V
+  - F ^ F = F
 
 ### 30. Operadores Lógicos #01
 
