@@ -204,6 +204,36 @@
 
 ### 32. Operadores de Atribuição
 
+### 33. Operadores Unários
+
+  Operadores tem haver com a quantidade de operandos.
+
+  No unário temremos um operando.
+
+  Operador de incremento ou decremento em que o sinal antecede a variável, e feito primeiro a operação de incremento ou decremento e depois é feito a comparação.
+
+  ```
+  public static void Executar() {
+    var valorNegativo = -5;
+    var numero1 = 2;
+    var numero2 = 3;
+    var booleano = true;
+
+    Console.WriteLine(-valorNegativo);
+    Console.WriteLine(!booleano);
+
+    numero1++;
+
+    --numero1;
+    Console.WriteLine(numero1);
+
+    //Neste caso temo o primeiro console dando true
+    Console.WriteLine(numero1++ == --numero2);
+    //Mas o segundo console mostrando numeros diferentes.
+    Console.WriteLine($"{numero1} {numero2}");
+    //E o que ocorreu é que para este caso presenciamos o exemplo em que o operador unário compara numero1 antes de incrementar com o valor de numero2 primeiramente decrementado, então temos 2 == 2, true;
+  }
+  ```
 
 
 
