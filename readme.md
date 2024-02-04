@@ -235,6 +235,15 @@
   }
   ```
 
+### 34. Operador Ternário
+
+  Operador composto por três operando, a primeira parte é a expressão de validação, a segunda é o retorno para verdadeiro e a terceira é o retorno sendo falsa.
+
+## Seção 4: Estruturas de Controle
+
+
+
+
 
 
 
