@@ -19,6 +19,7 @@ namespace CursoCSharp {
                 {"Fundamentos - Operadores Aritiméticos", OperadoresAritimeticos.Executar},
                 {"Fundamentos - Operadores Relacionais", OperadoresRelacionais.Executar},
                 {"Fundamentos - Operadores Logicos", OperadoresLogicos.Executar},
+                {"Fundamentos - Operadores Atribuições", OperadoresAtribuicao.Executar},
             });
 
             central.SelecionarEExecutar();

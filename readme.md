@@ -199,6 +199,12 @@
 
   Operadores unários.
 
+### 31. Operadores Lógicos #02
+
+
+### 32. Operadores de Atribuição
+
+
 
 
 
