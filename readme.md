@@ -251,6 +251,22 @@
 
 ### 40. Estrutura DO WHILE
 
+### 41. Estrutura FOR
+
+### 42. Estrutura FOREACH
+
+  O laço foreach é utilizaod para a leitura direta de uma estrutura do inicio ao fim. A diferença bácisa com relação laço For é a flexibilidade as possibilidades que o For permite de variar.
+
+### 43. Usando BREAK
+
+  O break faz com que saia da estrutura de controle. O break não é uma estrutura de controle mas é normalmente utilizada dentro das estuturas de controle.
+
+  O break normalmente está associado a um Switch ou então a um laço de repetição, portanto não se aplica no if.
+
+
+### 44. Usando CONTINUE
+
+
 
 
 
