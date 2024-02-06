@@ -245,6 +245,12 @@
 
 ### 36. Estrutura IF/ELSE
 
+### 38. Estrutura SWITCH
+
+### 39. Estrutura WHILE
+
+
+
 
 
 
