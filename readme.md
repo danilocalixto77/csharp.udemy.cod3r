@@ -263,8 +263,9 @@
 
   O break normalmente está associado a um Switch ou então a um laço de repetição, portanto não se aplica no if.
 
-
 ### 44. Usando CONTINUE
+
+  Ao contrário do break que interrompe a retição e sai fora do laço for ou de repetição. O continue ele interrompe aquela repetição e vai para próxima repetição.
 
 
 
