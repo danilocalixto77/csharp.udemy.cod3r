@@ -272,6 +272,19 @@
 
 ### 45. Classes vs Objeto
 
+### 46. Métodos
+
+  Métodos com retorno e parâmetros.
+
+  Métodos com retorno e sem parâmetros.
+
+  Para ambos os casos devem se definir o tipo de retorno e o tipo dos parâmetros para execução das sentenças dentro do método.
+
+  Métodos que não tem retono devem ter na sua declaração o tipo **void** que significa vazio.
+
+
+
+
   ---
   ---
 
