@@ -270,7 +270,7 @@
 
 ## Seção 5: Classes & Métodos
 
-  Proxima aula....
+### 45. Classes vs Objeto
 
   ---
   ---
