@@ -284,6 +284,8 @@
 
 ### 47. Membros: Atributos e Métodos
 
+  Criando classe Pessoa e trabalhando com a criação de atributos e classes.
+
 
 
 
