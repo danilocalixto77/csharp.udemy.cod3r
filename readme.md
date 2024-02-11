@@ -286,6 +286,15 @@
 
   Criando classe Pessoa e trabalhando com a criação de atributos e classes.
 
+### 48. Construtores
+
+  Construtor por padrão recebe o mesmo nome da classe.
+
+  Ao criar uma classe e não é definido nenhum construtor padrão é feito um construtor padrão. E um construtor padrão não recebe nenhum parâmetro, entretanto é possível fazer passagem de parâmetros.
+
+  Em caso de um parâmetro com o mesmo nome de um atributo da classe, pode ser feita a diferenciação com o this antes do atributo, portanto estou definindo que o nome que está com o **this" antes é referente ao objeto da classe.
+
+
 
 
 
