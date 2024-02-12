@@ -306,6 +306,8 @@
 
   Usualmente para utilizar uma classe necessita que a mesma seja instanciada para que a os seus atributos e métodos possam ser acessado. Entretanto com o termo **static** essa declaração passa a não ser mais necessária pois a partir do momento em que uma classe é definida como estática o programa considera como-se este método pertença a toda classe podendo desta forma acessar seus métodos e atributos sem uma prévia instanciação.
 
+  Desta maneira o membro **static** ao se instanciar e passando a pertencer a **classe** ele só poderá ser acessado pela classe, sendo assim fazendo o inverso tentando acessar um método que seja **static** a partir de uma nova instância, o programa também acusará erro pois ele informará que o membro só poderá ser acessaro diretamente pela classe.
+
     
 
 
