@@ -312,6 +312,14 @@
 
   Os atributos se comportam semelhantemente aos métodos, respeitando a mesma regra, de forma que um atributo quando definido como **static** o mesmo deverá ser acessado a partir da Classe, e quando ocorrer da classe ser instanciada o mesmo não poderá ser acessado pois ocorrerá erro.
 
+### 53. Desafio Acessar Atributo
+
+### 54. Desafio Acessar Atributo (Resposta)
+
+  Instaciar a classe na qual o atributo pertence e fazer a chamada a partir da instância do atributo. Pois se trata de uma classe que não é static, desta maneira para poder acessar, deve-se instanciar.
+
+
+
   ---
   ---
 

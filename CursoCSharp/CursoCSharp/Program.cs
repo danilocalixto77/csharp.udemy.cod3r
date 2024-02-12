@@ -43,6 +43,7 @@ namespace CursoCSharp {
                 {"Classes e Métodos - Métodos Com Retorno", MetodosComRetorno.Executar},
                 {"Classes e Métodos - Métodos Estáticos", MetodosEstaticos.Executar},
                 {"Classes e Métodos - Atributos Estáticos", AtributosEstaticos.Executar},
+                {"Classes e Métodos - Desafio Atributo", DesafioAtributo.Executar},
 
             });
 
