@@ -308,9 +308,9 @@
 
   Desta maneira o membro **static** ao se instanciar e passando a pertencer a **classe** ele só poderá ser acessado pela classe, sendo assim fazendo o inverso tentando acessar um método que seja **static** a partir de uma nova instância, o programa também acusará erro pois ele informará que o membro só poderá ser acessaro diretamente pela classe.
 
-    
+### 51. Atributos Estáticos    
 
-
+  Os atributos se comportam semelhantemente aos métodos, respeitando a mesma regra, de forma que um atributo quando definido como **static** o mesmo deverá ser acessado a partir da Classe, e quando ocorrer da classe ser instanciada o mesmo não poderá ser acessado pois ocorrerá erro.
 
   ---
   ---
