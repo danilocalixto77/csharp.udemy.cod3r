@@ -292,7 +292,7 @@
 
   Assinatura do método é composta pelo seu nome e os tipos dos parâmetros, portanto isso não pode ser igual, que o C# não permite.
 
-### 49. Métodos Com Retorno #02
+### 50. Métodos Com Retorno #02
 
   Construtor por padrão recebe o mesmo nome da classe.
 
@@ -300,8 +300,13 @@
 
   Em caso de um parâmetro com o mesmo nome de um atributo da classe, pode ser feita a diferenciação com o this antes do atributo, portanto estou definindo que o nome que está com o **this" antes é referente ao objeto da classe.
 
+### 51. Métodos Estáticos
 
+  Método estático é definido seu tipo na declaração **static**.
 
+  Usualmente para utilizar uma classe necessita que a mesma seja instanciada para que a os seus atributos e métodos possam ser acessado. Entretanto com o termo **static** essa declaração passa a não ser mais necessária pois a partir do momento em que uma classe é definida como estática o programa considera como-se este método pertença a toda classe podendo desta forma acessar seus métodos e atributos sem uma prévia instanciação.
+
+    
 
 
 
