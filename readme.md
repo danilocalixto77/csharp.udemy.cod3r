@@ -322,7 +322,11 @@
 
   Através da palavras reservada **params** na declaração do método temos a possibilidade de receber vários valores dentro de uma varíavel.
    
+### 56. Parâmetros Nomeados
 
+  Parâmetros normalmente a serem passados para uma função ou método devem ser informados conforme a sequência em que foi declarado. Entretanto, os parâmetros nomeados é possível fazer a passagem dos parâmetros fora da ordem em que foi declarado, quando passado com a nomeação do parâmetro.
+
+### 57. Getters & Setters
 
 
 
