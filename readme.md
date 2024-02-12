@@ -288,6 +288,12 @@
 
 ### 48. Construtores
 
+### 49. Métodos Com Retorno #01
+
+  Assinatura do método é composta pelo seu nome e os tipos dos parâmetros, portanto isso não pode ser igual, que o C# não permite.
+
+### 49. Métodos Com Retorno #02
+
   Construtor por padrão recebe o mesmo nome da classe.
 
   Ao criar uma classe e não é definido nenhum construtor padrão é feito um construtor padrão. E um construtor padrão não recebe nenhum parâmetro, entretanto é possível fazer passagem de parâmetros.
