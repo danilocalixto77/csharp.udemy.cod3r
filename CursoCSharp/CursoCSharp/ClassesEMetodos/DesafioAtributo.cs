@@ -10,7 +10,7 @@ namespace CursoCSharp.ClassesEMetodos {
         int a = 10;
         public static void Executar() {
             
-            var desafio = new DesafioAtributo();
+            DesafioAtributo desafio = new DesafioAtributo();
             // Acessar variável "a" dentro do Método Executar
             Console.WriteLine(desafio.a);
         }

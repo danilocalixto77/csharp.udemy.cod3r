@@ -316,7 +316,13 @@
 
 ### 54. Desafio Acessar Atributo (Resposta)
 
-  Instaciar a classe na qual o atributo pertence e fazer a chamada a partir da instância do atributo. Pois se trata de uma classe que não é static, desta maneira para poder acessar, deve-se instanciar.
+  Instanciar a classe na qual o atributo pertence e fazer a chamada a partir da instância do atributo. Pois se trata de uma classe que não é static, desta maneira para poder acessar, deve-se instanciar.
+
+### 55. Parâmetros Variáveis
+
+  Através da palavras reservada **params** na declaração do método temos a possibilidade de receber vários valores dentro de uma varíavel.
+   
+
 
 
 
