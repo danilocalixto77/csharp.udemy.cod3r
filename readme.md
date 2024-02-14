@@ -340,6 +340,10 @@
 
 ### 60. Enumerações (Enum)
 
+### 61. Struct
+
+
+
 
 
 
