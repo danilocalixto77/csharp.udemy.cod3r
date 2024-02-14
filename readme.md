@@ -334,6 +334,17 @@
 
 ### 59. Atributos Readonly  
 
+  É um atributo imutável em tempo de execução. Diferente do comportamento de uma **const** pois já faz a verificação em tempo de compilação.
+
+  Entretanto para que possa ser inicializado um valor imutável dentro do construtor, necessita que seja declarado como **readonly**
+
+### 60. Enumerações (Enum)
+
+
+
+
+
+
   ---
   ---
 
