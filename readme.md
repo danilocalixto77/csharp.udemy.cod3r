@@ -346,6 +346,11 @@
 
   São muito parecidos em suas sintaxes entretanto há algumas diferencas que podemos notar. Uma delas é que uma **Struct** ela faz a atribuiçao de seu atributo por **VALOR** e uma **Class** atribui por **REFERÊNCIA**.
 
+### 63. Atribuição por Valor vs Referência
+
+  Mais conceitos e explicações nas declarações por valor(**struct**) e por referência(**class**).
+
+### 64. Parâmetros por Referência (Ref/Out)  
 
 
 
