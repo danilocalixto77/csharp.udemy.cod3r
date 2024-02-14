@@ -328,6 +328,12 @@
 
 ### 57. Getters & Setters
 
+  O atributo dentro de uma classe por padrão ele é atribuido como private, mesmo que não seja declarado.
+
+### 58. Propriedades
+
+### 59. Atributos Readonly  
+
   ---
   ---
 
