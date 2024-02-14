@@ -344,6 +344,8 @@
 
 ### 62. Class vs Struct
 
+  São muito parecidos em suas sintaxes entretanto há algumas diferencas que podemos notar. Uma delas é que uma **Struct** ela faz a atribuiçao de seu atributo por **VALOR** e uma **Class** atribui por **REFERÊNCIA**.
+
 
 
 
