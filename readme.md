@@ -354,7 +354,13 @@
 
 ### 65. Exemplos sobre out
 
-## 66. Parâmetro com Valor Padrão
+### 66. Parâmetro com Valor Padrão
+
+## Seção 6: Coleções
+
+### 67. Array
+
+  ..... proxima aula a estudar.......
 
 
 
