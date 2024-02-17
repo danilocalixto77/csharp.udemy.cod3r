@@ -360,7 +360,12 @@
 
 ### 67. Array
 
-  ..... proxima aula a estudar.......
+  Estutura homogênia, não permite tipos diferentes dentro do mesmo array. 
+
+  Estrutura estática não permite alterar o seu tamanho.
+
+  
+
 
 
 
