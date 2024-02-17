@@ -364,6 +364,8 @@
 
   Estrutura estática não permite alterar o seu tamanho.
 
+  Estrutura indexada. São acessados através de um indice.
+
   
 
 
