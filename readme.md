@@ -366,14 +366,9 @@
 
   Estrutura indexada. São acessados através de um indice.
 
-  
+### 68. List
 
-
-
-
-
-
-
+... proxima aula...
 
   ---
   ---
