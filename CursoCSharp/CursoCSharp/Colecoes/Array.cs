@@ -36,6 +36,7 @@ namespace CursoCSharp.Colecoes {
 
             Console.WriteLine(palavra);
 
+
         }
     }
 }
