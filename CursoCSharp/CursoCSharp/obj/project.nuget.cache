@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IWOXAtnMvHZqJX6Gewhuj+H4G2RV97uA5auwdbZEIK2L5SehFLB3udLmCGItpd1vn0fW6/0BhpMGpTHoD1IS1g==",
+  "dgSpecHash": "Z/IsdDx/BM1whvLVrNea1dx37EDxuLFNR/ALjooAAWFPBnQN57O+nBZuHdvFGj5qmGeXfwH5EWtp+f10/S3+ag==",
   "success": true,
   "projectFilePath": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvançado\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Danilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
