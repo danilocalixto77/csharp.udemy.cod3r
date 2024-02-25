@@ -368,7 +368,13 @@
 
 ### 68. List
 
+  Permite o uso de Generics.
+
 ### 69. ArrayList  
+
+  Não permite o uso de Generics.
+
+  Exemplificando com valores heterogêneos.
 
   Proxima aula...
   
