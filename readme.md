@@ -368,10 +368,10 @@
 
 ### 68. List
 
+### 69. ArrayList  
 
-
-
-
+  Proxima aula...
+  
   ---
   ---
 
