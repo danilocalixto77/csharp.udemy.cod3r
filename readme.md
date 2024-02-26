@@ -376,8 +376,13 @@
 
   Exemplificando com valores heterogêneos.
 
-  Proxima aula...
+### 70. Set
+
+  A estrutura **Set** não é indexada.
+
+  O **Set** também é uma estrutura que não aceita repetição.
   
+  A estrutura **Set** trata-se de um conjunto.
   ---
   ---
 
