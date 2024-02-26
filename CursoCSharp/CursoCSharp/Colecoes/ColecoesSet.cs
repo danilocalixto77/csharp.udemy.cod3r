@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Text;
 
 namespace CursoCSharp.Colecoes {
-    class ColecoeSet {
+    class ColecoesSet {
 
         class Produto {
             public string Nome;

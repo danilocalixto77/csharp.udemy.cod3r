@@ -383,6 +383,26 @@
   O **Set** também é uma estrutura que não aceita repetição.
   
   A estrutura **Set** trata-se de um conjunto.
+
+### 71. Queue
+
+  Observar os devidos import pois há um específico para o que utiliza Generic e outro para a fila simples veja a seguir:
+
+  ```
+    //Fila convencional
+    using System.Collections;
+    //Queue() 
+
+    //Fila com generics
+    using System.Collections.Generic;
+    //Queue<T>()
+  ```
+
+
+
+
+
+
   ---
   ---
 
