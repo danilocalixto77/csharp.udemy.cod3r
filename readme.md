@@ -398,6 +398,11 @@
     //Queue<T>()
   ```
 
+  ### 72. Igualdade (Equals e GetHashCode)
+
+  
+
+
 
 
 
