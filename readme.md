@@ -398,7 +398,19 @@
     //Queue<T>()
   ```
 
-  ### 72. Igualdade (Equals e GetHashCode)
+### 72. Igualdade (Equals e GetHashCode)
+
+### 73. Stack
+
+  Para gerar um stack heterogênea, aceitando N valores. Modificar a declaração do using:
+
+  ```
+  //De:
+  using System.Collections.Generic;
+
+  //Para:
+  using System.Collections;
+  ```
 
   
 
@@ -422,3 +434,6 @@
   **CTRL + D**: Duplica uma linha. Vá para o inicio da linha que deseja duplicar e pressiona na sequencia de tecla.
 
   **CTRL + TAB**: Visualiza formulários em aberto e permite a seleção e navegação entre eles.
+
+  **CTRL + .**: Com uma classe selecionada visualiza atalhos para construtor e outras opções.
+

@@ -12,6 +12,9 @@ namespace CursoCSharp.ClassesEMetodos {
             public double Preco;
             public static double Desconto = 0.1;
 
+            public string V1 { get; }
+            public double V2 { get; }
+
             public Produto(string nome, double preco, double desconto) {
                 this.Nome = nome;
                 this.Preco = preco;
@@ -21,6 +24,11 @@ namespace CursoCSharp.ClassesEMetodos {
 
             public Produto() {
 
+            }
+
+            public Produto(string v1, double v2) {
+                V1 = v1;
+                V2 = v2;
             }
 
             public double CalcularDesconto() {
