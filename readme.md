@@ -414,7 +414,7 @@
 
 ### 74. Dictionary
 
-  Proxima aula....
+  É uma estrutura chave valor, na chave não permite repetição. No valor é permitido repetir.
   
 
 
