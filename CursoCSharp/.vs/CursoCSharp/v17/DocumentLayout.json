@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "CursoCSharp\\Colecoes\\ColecoesDictionary.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Colecoes\\ColecoesDictionary.cs",
               "RelativeToolTip": "CursoCSharp\\Colecoes\\ColecoesDictionary.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwCUAAAAzAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywCUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T03:42:10.454Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "CursoCSharp\\Colecoes\\ColecoesStack.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T02:58:29.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T02:58:29.37Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "CursoCSharp\\Program.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAgwD0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T22:15:35.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T22:15:35.677Z"
             }
           ]
         }
