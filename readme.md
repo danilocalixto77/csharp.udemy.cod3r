@@ -418,7 +418,6 @@
 
 ## Seção 7: Orientação a Objetos
 
-
 ### 75. Os Pilares da OO: Abstração
 
   Pilares da OO
@@ -428,7 +427,7 @@
   Definir algo único.
 
   Definir os atributos
-  
+
   Definir os comportamentos
 
   **Herança**
@@ -436,6 +435,10 @@
   **Encapsulamento**
 
   **Polimorfismo**
+  
+### 76. Os Pilares da OO: Herança
+
+  ....proxima aula....
   
 
 
