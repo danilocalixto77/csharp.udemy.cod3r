@@ -423,7 +423,13 @@
 
   Pilares da OO
 
-  **Abstração**
+  **Abstração** é abstrair do mundo real para dentro do sistema.
+
+  Definir algo único.
+
+  Definir os atributos
+  
+  Definir os comportamentos
 
   **Herança**
 
