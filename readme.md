@@ -432,16 +432,20 @@
 
   **Herança**
 
-  Tem por finalizade o reuso de código. 
-
   **Encapsulamento**
 
   **Polimorfismo**
   
 ### 76. Os Pilares da OO: Herança
 
-  ....proxima aula....
-  
+  Tem por finalizade o reuso de código. E para reuso de código existem alguma forma, o **Ctrl+C e Ctrl+V** é uma das forma mais comuns e uma das práticas mentos indicadas para se utilizar, pois quebra o principio do **DRY** (Dont Repeat Yourself). Além dessa forma temos duas maneiras clássicas que são a **Herança** e a **Composição**.
+
+  **Herança** é um(a)
+
+  **Composição** tem um(a)
+
+
+    
 
 
 
