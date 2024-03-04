@@ -432,6 +432,8 @@
 
   **Herança**
 
+  Tem por finalizade o reuso de código. 
+
   **Encapsulamento**
 
   **Polimorfismo**
