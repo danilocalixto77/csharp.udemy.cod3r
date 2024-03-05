@@ -447,6 +447,8 @@
 
 ### 77. Os Pilares da OO: Encapsulamento
 
+  Tem por finalidade esconder parte do código. Tornando privado aquilo que não é necessário ser exibido para uma outra classe, não fique exposto. Possibilitando uma menor dependência entre classes. Tornando mais restrito.
+
 proxima aula...
     
 
