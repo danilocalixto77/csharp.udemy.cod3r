@@ -451,15 +451,15 @@
 
   Palavras reservadas do C#
 
-  proxima aula... continuando aula 77
+  **Public** está acessível a todos. Com o maior nível de visibilidade.
 
+  **Internal** é acessível dentro do projeto.
 
-    
+  **Protect** é transmitido por herança.
 
+  **Private** é o mais restrito acessível somente dentro da classe.
 
-
-
-
+  continua....
 
 
   ---
