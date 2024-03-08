@@ -457,8 +457,10 @@
 
   **Protect** é transmitido por herança.
 
-  **Private** é o mais restrito acessível somente dentro da classe.
+  **Private** é o mais restrito acessível/visível somente dentro da classe.
 
+  Dica para definir qual nível de acessibilidade do método/atributo, é coloca-lo do mais restrito, e na medida das necessidades, vai disponibilizando acessos.
+  
   continua....
 
 
