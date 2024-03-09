@@ -461,7 +461,13 @@
 
   Dica para definir qual nível de acessibilidade do método/atributo, é coloca-lo do mais restrito, e na medida das necessidades, vai disponibilizando acessos.
   
-  continua....
+### 78. Os Pilares da OO: Polimorfismo
+
+  O polimorfismo pode ser dividido em duas forma:
+
+  **Versão estática** seria uma sobrecarga de método.
+
+  **Vesão dinâmica**
 
 
   ---

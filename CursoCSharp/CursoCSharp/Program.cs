@@ -5,6 +5,7 @@ using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.OO;
 
 namespace CursoCSharp
 {
@@ -69,6 +70,9 @@ namespace CursoCSharp
                 {"Coleções - Igualdade", Igualdade.Executar},
                 {"Coleções - Stack", ColecoesStack.Executar},
                 {"Coleções - Dictionary", ColecoesDictionary.Executar},
+                
+                //OO
+                {"OO - Herança", Heranca.Executar},
 
 
             });
