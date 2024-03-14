@@ -12,7 +12,7 @@ namespace CursoCSharp.OO {
         //public Carro() { }
 
         public Carro(int velocidadeMaxima) {
-            velocidadeMaxima = velocidadeMaxima;
+            VelocidadeMaxima = velocidadeMaxima;
 
         }
         protected int AlterarVelocidade(int delta) {
@@ -29,7 +29,7 @@ namespace CursoCSharp.OO {
 
         }
 
-        public int Acelerar() {
+        public virtual int Acelerar() {
             return AlterarVelocidade(5);
         }
 
@@ -47,7 +47,16 @@ namespace CursoCSharp.OO {
     }
 
     public class Ferrari : Carro {
-            public Ferrari() : base(350) { }
+        public Ferrari() : base(350) { }
+
+        public override int Acelerar() {
+            return AlterarVelocidade(15);
+
+        }
+        // o new na declaração da assinatura oculta da classe pai
+        public new int Frear() {
+            return AlterarVelocidade(-15);
+        }
 
     }
 
@@ -74,6 +83,25 @@ namespace CursoCSharp.OO {
             Console.WriteLine(carro2.Frear());
             Console.WriteLine(carro2.Frear());
 
+            Console.WriteLine("Ferrari com tipo Carro...");
+            Carro carro3 = new Ferrari(); //Polimorfismo
+
+
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+
+
+            Console.WriteLine("Unot com tipo Carro...");
+            carro3 = new Uno(); //Polimorfismo
+
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
 
 
 

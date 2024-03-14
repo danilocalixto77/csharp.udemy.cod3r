@@ -471,7 +471,14 @@
 
 ### 79. Herança #01
 
+### 80. Herança #02
+
+  Modificação do método Acelerar da Ferrai utilizando o **override** na declaração do método dentro de Ferrari(), lembrando que na classe Carro o método acelerar dever ser inseido na sua assinatura a declaração como **virtual** para permitir a sobrescrita.
+
+  Exemplos de **polimorfismo**
+
   
+
 
 
   ---
