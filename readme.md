@@ -479,6 +479,10 @@
 
 ### 81. Construtor: Usando o this
 
+  Na construção do fluxo de um objeto, sempre será necessário haver um construtor, seja feito na propria classe, ou então da classe pai(herdada).
+
+  De forma implicita sempre será chamado um construtor padrão da classe pai. Mas de forma explicita pode ser chamado o contrutor seja da classe pai ou da própria classe.
+
 proxima aula....
 
 testes
