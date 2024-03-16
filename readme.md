@@ -481,7 +481,9 @@
 
   Na construção do fluxo de um objeto, sempre será necessário haver um construtor, seja feito na propria classe, ou então da classe pai(herdada).
 
-  De forma implicita sempre será chamado um construtor padrão da classe pai. Mas de forma explicita pode ser chamado o contrutor seja da classe pai ou da própria classe.
+  De forma implicita sempre será chamado um construtor padrão da classe pai, o construtor base que não recebe nenhum parametro. Mas caso não exista este construtor base na classe pai deverá ser necessário informar **: base()**. Mas de forma explicita pode ser chamado o contrutor seja da classe pai ou da própria classe.
+
+  O construtor da propria classe é chamado a partir do **base()** **this()**
 
 proxima aula....
 
