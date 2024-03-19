@@ -485,11 +485,8 @@
 
   O construtor da propria classe é chamado a partir do **base()** **this()**
 
-proxima aula....
 
-testes
-
-
+### 82. Encapsulamento
 
 
 
