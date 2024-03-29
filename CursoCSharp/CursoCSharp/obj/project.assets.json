@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Encapsulamento/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Encapsulamento/1.0.0": {
+      "type": "project",
+      "path": "../Encapsulamento/Encapsulamento.csproj",
+      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Encapsulamento >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Danilo\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvançado\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
+              "projectPath": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvançado\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

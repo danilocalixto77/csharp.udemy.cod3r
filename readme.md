@@ -488,6 +488,8 @@
 
 ### 82. Encapsulamento
 
+  continuar proxima aula parou em 10:22m
+
 
 
 

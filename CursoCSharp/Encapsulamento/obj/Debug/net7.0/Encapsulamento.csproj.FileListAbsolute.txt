@@ -1,0 +1,12 @@
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.sourcelink.json
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+D:\Danilo\Cursos\Udemy\CSharpCursoCompletoDoBasicoaoAvançado\CursoCSharp\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll

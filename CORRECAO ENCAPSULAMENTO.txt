@@ -1,0 +1,98 @@
+//CLASSE AMIGOPROXIMO.CS - INICIO
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Channels;
+using System.Threading.Tasks;
+
+namespace Encapsulamento {
+    internal class AmigoProximo {
+        public readonly SubCelebridade amiga = new SubCelebridade();    
+
+        public void MeusAcessos() {
+            Console.WriteLine("AmigoProximo...");
+
+            Console.WriteLine(amiga.InfoPublica);
+            //Console.WriteLine(CorDoOlho);
+            Console.WriteLine(amiga.NumeroCelular);
+            Console.WriteLine(amiga.JeitoDeFalar);
+            //Console.WriteLine(amiga.SegredoFamilia);
+            //Console.WriteLine(amiga.UsaMuitoPhotoShop);
+        }
+
+    }
+}
+//CLASSE AMIGOPROXIMO.CS - FIM
+
+//CLASSE FILHORECHONHECIDO.CS - INICIO
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Encapsulamento {
+    internal class FilhoReconhecido : SubCelebridade {
+        public new void MeusAcessos() {
+            Console.WriteLine("FilhoReconhecido...");
+
+            Console.WriteLine(InfoPublica);
+            Console.WriteLine(CorDoOlho);
+            Console.WriteLine(NumeroCelular);
+            Console.WriteLine(JeitoDeFalar);
+            Console.WriteLine(SegredoFamilia);
+            //Console.WriteLine(UsaMuitoPhotoShop);
+        }
+    }
+}
+//CLASSE FILHORECHONHECIDO.CS - FIM
+
+
+//CLASSE SUBCELEBRIDADE.CS - INICIO
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Encapsulamento {
+    public class SubCelebridade {
+        //Todos -> public
+        public string InfoPublica = "Tenho um instagram!";
+
+        //Por herança - protected
+        protected string CorDoOlho = "Verde";
+
+        //Mesmo projeto (assembly)
+        internal ulong NumeroCelular = 551199998888;
+
+        //Por herança ou no mesmo projeto
+        protected internal string JeitoDeFalar = "Uso muitas gírias";
+
+        //Mesma classe ou herança mas somente no mesmo projeto (C# 7.2 ou superior)
+        private protected string SegredoFamilia = "Bla Bla";
+
+        //Valor padrão - private
+        bool UsaMuitoPhotoShop = true;
+
+        public void MeusAcessos() {
+            Console.WriteLine("Subcelebridade...");
+
+            Console.WriteLine(InfoPublica);
+            Console.WriteLine(CorDoOlho);
+            Console.WriteLine(NumeroCelular);
+            Console.WriteLine(JeitoDeFalar);
+            Console.WriteLine(SegredoFamilia);
+            Console.WriteLine(UsaMuitoPhotoShop);
+        }
+
+
+    }
+}
+
+//CLASSE SUBCELEBRIDADE.CS - FIM
+
+
+
