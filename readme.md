@@ -488,8 +488,9 @@
 
 ### 82. Encapsulamento
 
-  continuar proxima aula parou em 10:22m
+- Iniciar para recaptular e atualizar aula completa.
 
+- Não está compilando checar e revisar código.
 
 
 
