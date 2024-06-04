@@ -488,9 +488,7 @@
 
 ### 82. Encapsulamento
 
-- Iniciar para recaptular e atualizar aula completa.
-
-- Não está compilando checar e revisar código.
+- ... Não compilando refazer código...
 
 
 
