@@ -488,12 +488,14 @@
 
 ### 82. Encapsulamento
 
-- ... Não compilando refazer código...
+  Criação de diversos níveis de acesso entre classes a atributos.
 
+  Criação do projeto Encapsulamento, e inserindo dependência deste ao projeto principal.
 
+  Ao conflitar com a classe Encapsulamento do projeto principal, ajustar o namespace da classe Encapsulamento com o OO.Encapsulamento.
 
-  ---
-  ---
+  Sugestão de segurança para uso no dia a dia, inserir os níveis mais restritos de acesso a classes  e atributos, e na medida que surjam as necessidades de acessos de outras classes, analise e faça a liberação de permissão gradativamente.
+
 
   ## Atalhos do Visual Studio .NET
 
