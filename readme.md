@@ -497,6 +497,13 @@
   Sugestão de segurança para uso no dia a dia, inserir os níveis mais restritos de acesso a classes  e atributos, e na medida que surjam as necessidades de acessos de outras classes, analise e faça a liberação de permissão gradativamente.
 
 
+### 83. Polimorfismo
+
+  Possibilita alterar o comportamento de uma classe a partir de uma outra. 
+
+
+
+
   ## Atalhos do Visual Studio .NET
 
   **CTRL + K + D**: Formata o código conforme a indentação previamente configurada.(Aula 15. Criando um Projeto C#) contém as orientações de como configurar a forma de organização do código.
