@@ -510,7 +510,7 @@
 
   Uma classe abstrata pode ou não ter métodos abstratos.
 
-### Interface
+### 85. Interface
 
   A interface seria semelhante a uma classe abstrata na qual todos os métodos são abstratos, ou seja, todos os métodos são necessário de serem implementados.
 
@@ -518,7 +518,9 @@
 
   Implicitamente os membros de uma interface (métodos/atributos) são public e abstract, desta forma não é possível usar essa declaração pois já são implícitos. Pois todos deverão ser obrigatoriamente implementados. Portanto por ser public o seu nível de visibilidade não pode ser diminuido ao ser herdar uma interface consequentemente em uma classe, os métodos implementados da mesma deverão ser públicos.
 
+### 86. Classe e Método Sealed
 
+  Diferentemente da classe abstrata que obriga a sua implementação para seus métodos abstratos, uma classe ou método selado, possibilitam que ou um ou outro não sejam possíveis de herdar. Desta forma um classe que esteja marcada com o modificador **sealed** ela não irá permitir herança, ou no caso de um membro de uma classe que estiver com o este modificador, não será permitido sobrescriver.
 
 
   ## Atalhos do Visual Studio .NET
