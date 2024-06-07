@@ -510,6 +510,12 @@
 
   Uma classe abstrata pode ou não ter métodos abstratos.
 
+### Interface
+
+  A interface seria semelhante a uma classe abstrata na qual todos os métodos são abstratos, ou seja, todos os métodos são necessário de serem implementados.
+
+  Um interface possui a vantagem de permitir um classe herdar múltiplas interfaces. Algo que não é permitido entre classes pois a herança entre classes é única 1 p/ 1.
+
 
   ## Atalhos do Visual Studio .NET
 
