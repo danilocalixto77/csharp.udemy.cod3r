@@ -78,6 +78,7 @@ namespace CursoCSharp
                 {"OO - Encapsulamento", OO.Encapsulamento.Executar},
                 {"OO - Polimorfismo", Polimorfismo.Executar},
                 {"OO - Classe Abstrata", Abstract.Executar},
+                {"OO - Interface", Interface.Executar},
 
             });
 
