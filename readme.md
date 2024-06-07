@@ -502,6 +502,13 @@
   Possibilita alterar o comportamento de uma classe a partir de uma outra. 
 
 
+### 84. Abstract
+
+  Conceitualmente a  classe abstrata, trata-se de um classe inacabada. Que não pode ser instanciada, portanto em caso da necessidade de não permitir que uma classe não seja instanciada aplica-se a classe abstrata para tal caso.
+
+  Caso de uso para a classe abstrata, trata-se de uma classe que normalmente você deseja criar para que seja herdada por outras classes.
+
+  Uma classe abstrata pode ou não ter métodos abstratos.
 
 
   ## Atalhos do Visual Studio .NET
