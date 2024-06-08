@@ -522,6 +522,12 @@
 
   Diferentemente da classe abstrata que obriga a sua implementação para seus métodos abstratos, uma classe ou método selado, possibilitam que ou um ou outro não sejam possíveis de herdar. Desta forma um classe que esteja marcada com o modificador **sealed** ela não irá permitir herança, ou no caso de um membro de uma classe que estiver com o este modificador, não será permitido sobrescriver.
 
+## Seção 8: Métodos & Funções
+
+### 87. ClasseExemplo Lambda
+
+
+
 
   ## Atalhos do Visual Studio .NET
 
