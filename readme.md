@@ -526,6 +526,10 @@
 
 ### 87. ClasseExemplo Lambda
 
+  **Action** é uma função sem retorno, do tipo void. 
+
+  **Func** é a alternativa para funções com retorno.
+
 
 
 
