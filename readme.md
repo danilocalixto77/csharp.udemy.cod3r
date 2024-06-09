@@ -532,7 +532,24 @@
 
 ### 88. Delegate com Lambda
 
-  
+  É definir um tipo que armazena uma assinatura de uma função. Possibilitando esse delegate ser atribuido a variáveis.
+
+### 89. Usando Delegate
+
+  Deve-se observar que ao ser atribuido por exemplo uma variável a um delegate, devendo observar se alguns pontos estarão iguais ao do deleagete, como:
+    
+    Tipo de variável
+    
+    Tipo e ordem dos parâmetros
+
+    Tipo de retrono
+
+  Desta forma será possível fazer a associação de uma função, usando o delegate como um tipo.
+
+  Podendo ser atribuido tanto para o seu uso em variáveis como também em funções do tipo **Func<>** com **Action<>**. Respeitando as regras acima de tipo, parâmetros e retorno.
+
+
+
 
 
 

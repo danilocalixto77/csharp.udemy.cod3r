@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\metodosefuncoes\\exemplolambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\metodosefuncoes\\exemplolambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\metodosefuncoes\\usandodelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\metodosefuncoes\\usandodelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\oo\\sealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\oo\\sealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\metodosefuncoes\\lambdasdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\metodosefuncoes\\lambdasdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExemploLambda.cs",
-              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\MetodosEFuncoes\\ExemploLambda.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\MetodosEFuncoes\\ExemploLambda.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\MetodosEFuncoes\\ExemploLambda.cs",
-              "RelativeToolTip": "CursoCSharp\\MetodosEFuncoes\\ExemploLambda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABMAAAA",
+              "Title": "UsandoDelegate.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\MetodosEFuncoes\\UsandoDelegate.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\MetodosEFuncoes\\UsandoDelegate.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\MetodosEFuncoes\\UsandoDelegate.cs",
+              "RelativeToolTip": "CursoCSharp\\MetodosEFuncoes\\UsandoDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:24:51.769Z",
+              "WhenOpened": "2024-06-09T12:11:50.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Sealed.cs",
-              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\OO\\Sealed.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\OO\\Sealed.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\OO\\Sealed.cs",
-              "RelativeToolTip": "CursoCSharp\\OO\\Sealed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Title": "LambdasDelegate.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\MetodosEFuncoes\\LambdasDelegate.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\MetodosEFuncoes\\LambdasDelegate.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\MetodosEFuncoes\\LambdasDelegate.cs",
+              "RelativeToolTip": "CursoCSharp\\MetodosEFuncoes\\LambdasDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T12:02:53.699Z",
+              "WhenOpened": "2024-06-09T12:03:57.05Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFUAAAAQAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T03:44:05.054Z",
               "EditorCaption": ""
