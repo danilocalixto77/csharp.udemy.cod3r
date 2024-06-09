@@ -530,6 +530,10 @@
 
   **Func** é a alternativa para funções com retorno.
 
+### 88. Delegate com Lambda
+
+  
+
 
 
 
