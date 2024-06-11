@@ -554,6 +554,13 @@
 
 ### 92. Métodos de Extensão
 
+## 9. Exceções
+
+  ### 93. Exceções e Tratamento de Erro
+
+  
+
+  --### 94. Criando Exceções Personalizadas
 
 
 
