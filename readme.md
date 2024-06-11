@@ -548,6 +548,11 @@
 
   Podendo ser atribuido tanto para o seu uso em variáveis como também em funções do tipo **Func<>** com **Action<>**. Respeitando as regras acima de tipo, parâmetros e retorno.
 
+### 90. Delegate com Funções Anônimas
+
+### 91. Passando Delegate como Parâmetro
+
+### 92. Métodos de Extensão
 
 
 
