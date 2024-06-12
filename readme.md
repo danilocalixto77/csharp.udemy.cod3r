@@ -558,9 +558,13 @@
 
   ### 93. Exceções e Tratamento de Erro
 
-  
+  Procedimento na qual é tratado condições em que o código irá ocasionar em erro. Não é obrigatório.
 
-  --### 94. Criando Exceções Personalizadas
+  O tipo de exceção **Exception** é o tipo mais genérico das exceções portanto caso utilizando será direcionado para ele.
+
+  As exceções funcionam em uma estrutura de pilhas na qual de acordo com o método que gerou a exceção vai passando de um método para outro, e quando encontra a exceção, retorna para o método que chamou até chegem uma uma camada anteior da pilha que haja alguma tratamento ou mesmo mensagem genérica informando o motivo da exceção.
+ 
+  ### 94. Criando Exceções Personalizadas
 
 
 
