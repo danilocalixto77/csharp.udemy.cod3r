@@ -566,11 +566,11 @@
  
   ### 94. Criando Exceções Personalizadas
 
-
 ## Seção 10: Explorando API
 
   ### 95. Arquivo: Escrevendo Dados
 
+  Utilização de **@** antes de strigs atribuídas  a uma variável o C# ignora comando como \t (tab) \n (enter) considerando a string de forma literal da forma que ela está escrita.
 
 
 
