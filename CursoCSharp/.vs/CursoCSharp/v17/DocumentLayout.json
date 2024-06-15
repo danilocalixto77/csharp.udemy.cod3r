@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CursoCSharp\\Api\\PrimeiroArquivo.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\PrimeiroArquivo.cs",
               "RelativeToolTip": "CursoCSharp\\Api\\PrimeiroArquivo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T03:38:03.516Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "CursoCSharp\\Excecoes\\ExcecoesPersonalizadas.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T02:56:33.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T02:56:33.227Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "CursoCSharp\\Program.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAAAGIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T02:39:56.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T02:39:56.01Z"
             }
           ]
         }

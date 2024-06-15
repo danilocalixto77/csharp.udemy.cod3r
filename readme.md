@@ -572,6 +572,8 @@
 
   Utilização de **@** antes de strigs atribuídas  a uma variável o C# ignora comando como \t (tab) \n (enter) considerando a string de forma literal da forma que ela está escrita.
 
+  Com o StreamWriter é possível criar arquivos e também editar arquivo.
+
 
 
 
