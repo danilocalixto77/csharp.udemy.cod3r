@@ -578,6 +578,12 @@
 
   Clausula **using** só pode ser utilizada em métodos que tenham implementado a interface IDisposable, que faz a liberação dos recuros, caso não tenha essa interface o using não poderá ser utilizado.
 
+### 97. Usando FileInfo
+
+  Método que fornece uma série de informações acerca do arquivo. Tamanho, nome, extensão, diretório e etc...
+
+  
+
 
 
 

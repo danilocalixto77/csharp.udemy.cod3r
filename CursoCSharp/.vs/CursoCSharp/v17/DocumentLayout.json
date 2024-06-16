@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\lendoarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\lendoarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\exemplofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\exemplofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\primeiroarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\primeiroarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\excecoes\\excecoespersonalizadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\excecoes\\excecoespersonalizadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\excecoes\\primeiraexcecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\excecoes\\primeiraexcecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,25 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LendoArquivo.cs",
-              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\LendoArquivo.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\Api\\LendoArquivo.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\LendoArquivo.cs",
-              "RelativeToolTip": "CursoCSharp\\Api\\LendoArquivo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T03:19:30.383Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -60,31 +35,24 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T03:38:03.516Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExemploFileInfo.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\ExemploFileInfo.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Api\\ExemploFileInfo.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\ExemploFileInfo.cs",
+              "RelativeToolTip": "CursoCSharp\\Api\\ExemploFileInfo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:07:20.275Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExcecoesPersonalizadas.cs",
-              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Excecoes\\ExcecoesPersonalizadas.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\Excecoes\\ExcecoesPersonalizadas.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Excecoes\\ExcecoesPersonalizadas.cs",
-              "RelativeToolTip": "CursoCSharp\\Excecoes\\ExcecoesPersonalizadas.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T02:56:33.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PrimeiraExcecao.cs",
-              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Excecoes\\PrimeiraExcecao.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\Excecoes\\PrimeiraExcecao.cs",
-              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Excecoes\\PrimeiraExcecao.cs",
-              "RelativeToolTip": "CursoCSharp\\Excecoes\\PrimeiraExcecao.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvxYAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T02:39:57.681Z"
             },
             {
               "$type": "Document",
@@ -94,7 +62,7 @@
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGQAAAA0AAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T02:39:56.01Z",
               "EditorCaption": ""
