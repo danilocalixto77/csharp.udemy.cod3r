@@ -574,7 +574,9 @@
 
   Com o StreamWriter é possível criar arquivos e também editar arquivo.
 
+### 96. Arquivo: Lendo Dados
 
+  Clausula **using** só pode ser utilizada em métodos que tenham implementado a interface IDisposable, que faz a liberação dos recuros, caso não tenha essa interface o using não poderá ser utilizado.
 
 
 

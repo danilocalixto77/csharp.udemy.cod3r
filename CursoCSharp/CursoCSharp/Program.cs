@@ -98,6 +98,7 @@ namespace CursoCSharp
                 
                 //API 
                 {"API - Primeiro Arquivo", PrimeiroArquivo.Executar},
+                {"API - Lendo Arquivo", LendoArquivo.Executar},
 
             });
 
