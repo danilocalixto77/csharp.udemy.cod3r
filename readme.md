@@ -582,7 +582,10 @@
 
   Método que fornece uma série de informações acerca do arquivo. Tamanho, nome, extensão, diretório e etc...
 
-  
+
+### 98. Trabalhando com Diretórios
+
+
 
 
 
