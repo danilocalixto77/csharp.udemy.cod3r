@@ -589,9 +589,6 @@
 
 
 
-
-
-
   ## Atalhos do Visual Studio .NET
 
   **CTRL + K + D**: Formata o código conforme a indentação previamente configurada.(Aula 15. Criando um Projeto C#) contém as orientações de como configurar a forma de organização do código.
