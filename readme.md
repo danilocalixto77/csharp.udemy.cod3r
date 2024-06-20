@@ -587,6 +587,9 @@
 
 ### 99. Usando DirectoryInfo
 
+### 100. Usando Path
+
+
 
 
   ## Atalhos do Visual Studio .NET

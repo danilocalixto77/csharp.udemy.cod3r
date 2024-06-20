@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\exemplopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\exemplopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\exemplodirectoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\exemplodirectoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\diretorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\diretorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\api\\exemplofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PrimeiroArquivo.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\PrimeiroArquivo.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Api\\PrimeiroArquivo.cs",
@@ -48,6 +52,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExemploPath.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\ExemploPath.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Api\\ExemploPath.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\ExemploPath.cs",
+              "RelativeToolTip": "CursoCSharp\\Api\\ExemploPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:15:54.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExemploDirectoryInfo.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\ExemploDirectoryInfo.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Api\\ExemploDirectoryInfo.cs",
@@ -59,12 +80,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Diretorios.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\Diretorios.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Api\\Diretorios.cs",
@@ -72,12 +89,11 @@
               "RelativeToolTip": "CursoCSharp\\Api\\Diretorios.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T03:25:29.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T03:25:29.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExemploFileInfo.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Api\\ExemploFileInfo.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Api\\ExemploFileInfo.cs",
@@ -89,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGcAAAAsAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T02:39:56.01Z",
               "EditorCaption": ""
