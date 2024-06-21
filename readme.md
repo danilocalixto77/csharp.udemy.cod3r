@@ -596,6 +596,8 @@
 
 ### 101. Usando DateTime
 
+  Usando DateTime temos possibilidades diversas de trabalhar com datas. Com hora sem hora, adicionar dias, deduzir dias conforme exemplo no código.
+
   
 
 
