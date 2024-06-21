@@ -582,14 +582,21 @@
 
   Método que fornece uma série de informações acerca do arquivo. Tamanho, nome, extensão, diretório e etc...
 
-
 ### 98. Trabalhando com Diretórios
+
+  OK
 
 ### 99. Usando DirectoryInfo
 
+  OK
+
 ### 100. Usando Path
 
+  OK
 
+### 101. Usando DateTime
+
+  
 
 
   ## Atalhos do Visual Studio .NET
