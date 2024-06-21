@@ -598,7 +598,16 @@
 
   Usando DateTime temos possibilidades diversas de trabalhar com datas. Com hora sem hora, adicionar dias, deduzir dias conforme exemplo no código.
 
+
+### 102. Usando TimeSpan
+
+  Fazendo uma operação entre dois DateTime, por exemplo uma subtração entre dois períodos para se extrair o intervalo de minutos, o resultado será um TimeSpan.
   
+
+## Seção 11: Tópicos Avançados 
+
+### 103. LINQ #1
+
 
 
   ## Atalhos do Visual Studio .NET
