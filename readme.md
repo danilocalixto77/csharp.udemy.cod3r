@@ -608,6 +608,14 @@
 
 ### 103. LINQ #1
 
+  **LINQ** Language Integrated Query um forma que o C# possui de fazer consulta em estruturas de dados utilizando a sitaxe, de forma muito semelhante a consulta em bancos feitas em SQL.
+
+  Permitindo a utilização de Where OrdeBy e assim por diante.
+
+  Com **Where** utilziando-se deum lambda **a => true** listamos a estrutura.
+
+  Com **OrderBy** podemos ordenar e em caso de decrescentes acrescente o sinal de  **"-" menos/negativo** na expressão para ordenar.
+
 
 
 
