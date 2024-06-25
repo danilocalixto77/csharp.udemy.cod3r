@@ -616,6 +616,20 @@
 
   Com **OrderBy** podemos ordenar e em caso de decrescentes acrescente o sinal de  **"-" menos/negativo** na expressão para ordenar.
 
+### 104. LINQ #2
+
+
+### 105. Nullables
+
+  **Nullables** é a possibilidade de atribuir nullo para variáveis de diversos tipos.
+
+  
+
+
+
+
+
+  
 
 
 

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\topicosavancados\\linq1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\topicosavancados\\linq1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\topicosavancados\\nullables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\topicosavancados\\nullables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\topicosavancados\\linq2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\topicosavancados\\linq2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|d:\\danilo\\cursos\\udemy\\csharpcursocompletodobasicoaoavan\u00E7ado\\cursocsharp\\cursocsharp\\topicosavancados\\linq1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5DCA61-B40F-4389-B01F-0AFC8667A4B4}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\topicosavancados\\linq1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Nullables.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\TopicosAvancados\\Nullables.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\TopicosAvancados\\Nullables.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\TopicosAvancados\\Nullables.cs",
+              "RelativeToolTip": "CursoCSharp\\TopicosAvancados\\Nullables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:21:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LINQ2.cs",
+              "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\TopicosAvancados\\LINQ2.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\TopicosAvancados\\LINQ2.cs",
+              "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\TopicosAvancados\\LINQ2.cs",
+              "RelativeToolTip": "CursoCSharp\\TopicosAvancados\\LINQ2.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:23:15.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LINQ1.cs",
               "DocumentMoniker": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\TopicosAvancados\\LINQ1.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\TopicosAvancados\\LINQ1.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\TopicosAvancados\\LINQ1.cs",
               "RelativeToolTip": "CursoCSharp\\TopicosAvancados\\LINQ1.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA3wCAAAAA/AAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T10:49:18.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T10:49:18.634Z"
             },
             {
               "$type": "Document",
@@ -45,7 +78,7 @@
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "D:\\Danilo\\Cursos\\Udemy\\CSharpCursoCompletoDoBasicoaoAvan\u00E7ado\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAAAG0AAAAQAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T02:39:56.01Z",
               "EditorCaption": ""
