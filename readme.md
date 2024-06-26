@@ -623,8 +623,9 @@
 
   **Nullables** é a possibilidade de atribuir nullo para variáveis de diversos tipos.
 
-  
+### 106. Dynamic
 
+  proxima aula...
 
 
 
