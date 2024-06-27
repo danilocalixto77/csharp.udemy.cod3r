@@ -107,11 +107,13 @@ namespace CursoCSharp
                 {"API - Exemplo DateTime", ExemploDateTime.Executar},
                 {"API - Exemplo TimeSpan", ExemploTimeSpan.Executar},
                 
-                
                 //Tópicos Avançados
                 {"Tópicos Avançados - LINQ # 1 ", LINQ1.Executar},
                 {"Tópicos Avançados - LINQ # 2 ", LINQ2.Executar},
                 {"Tópicos Avançados - Nullables", Nullables.Executar},
+                {"Tópicos Avançados - Dynamic", Dynamics.Executar},
+                {"Tópicos Avançados - Generics", Genericos.Executar},
+
 
 
                 //

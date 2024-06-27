@@ -625,8 +625,19 @@
 
 ### 106. Dynamic
 
-  proxima aula...
+  É a função que permite atribuir a uma variável o compotamento de modificar o seu tipo, tornando uma varável para um paradigma fracamente tipacodo, que seria o inverso conceitual do C#. Entretanto com o Dynamic há essa forma de se atribuir valores de tipos diferentes.
 
+  Bem como um objeto do tipo ExpandoObject no qual permite que seja inserido parâmetros dinamicamente no decorrer da chamada do objeto.
+
+  De forma mais objetiva o Dynamic é aconselhável para casos em que necessite de um pouco mais de flexibilidade.
+
+### 107. Generics
+
+### 108. Central de Exercício
+
+## Seção 12: Conclusão
+
+### 109. Obrigado e Até Breve!
 
 
   ## Atalhos do Visual Studio .NET
