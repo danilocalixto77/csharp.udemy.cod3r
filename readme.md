@@ -654,3 +654,4 @@
 
   **CTRL + .**: Com uma classe selecionada visualiza atalhos para construtor e outras opções.
 
+-------------------------------------------------------------------------------------------------------------
